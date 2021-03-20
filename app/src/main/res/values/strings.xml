@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">TitForTat</string>
+
+    <!-- StartActivity -->
+    <string name="app_name_jp">しっぺ返し戦略</string>
+    <string name="start">スタート</string>
+
+    <!-- MainActivity -->
+    <string name="unknown">？</string>
+    <string name="question">どうしますか？</string>
+    <string name="confess">自白</string>
+    <string name="silence">黙秘</string>
 </resources>
