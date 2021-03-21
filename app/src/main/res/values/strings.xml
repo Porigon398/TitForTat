@@ -10,4 +10,12 @@
     <string name="question">どうしますか？</string>
     <string name="confess">自白</string>
     <string name="silence">黙秘</string>
+
+    <!-- ResultActivity -->
+    <string name="result">結果</string>
+    <string name="you">あなたは懲役 </string>
+    <string name="opponent">相手は懲役 </string>
+    <string name="zero">0</string>
+    <string name="years"> 年になりました！</string>
+
 </resources>
