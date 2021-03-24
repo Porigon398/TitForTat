@@ -17,5 +17,7 @@
     <string name="opponent">相手は懲役 </string>
     <string name="zero">0</string>
     <string name="years"> 年になりました！</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
