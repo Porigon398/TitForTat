@@ -53,11 +53,13 @@
                         android:text="@string/question" />
 
                     <Button
+                        android:id="@+id/confessButton"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/confess" />
 
                     <Button
+                        android:id="@+id/silenceButton"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/silence" />
